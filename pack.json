@@ -3,5 +3,6 @@
   "publisher": "big-riz",
   "version": "1.0.0",
   "description": "Pokemon Emerald remastered soundtrack — 136 tracks including battle themes, town music, and jingles",
-  "types": ["sounds"]
+  "types": ["sounds"],
+  "source": "https://downloads.khinsider.com/game-soundtracks/album/pokemon-emerald-remastered-complete-original-soundtrack"
 }
