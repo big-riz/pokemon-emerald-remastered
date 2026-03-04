@@ -1,5 +1,8 @@
 # Pokemon Emerald Remastered — AgentCraft Sound Pack
 
+<img width="946" height="416" alt="image" src="https://github.com/user-attachments/assets/fb3213d3-3da9-4e19-91a6-2d8f00c93a63" />
+
+
 The complete remastered soundtrack from **Pokemon Emerald** (GBA, 2004) packaged as an [AgentCraft](https://github.com/rohenaz/agentcraft#sound-packs) sound pack.
 
 136 tracks across 3 discs — battle themes, town music, routes, jingles, and more.
